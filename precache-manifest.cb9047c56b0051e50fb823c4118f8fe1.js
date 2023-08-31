@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a88968b2cdd3b2135c8d",
+    "revision": "6d0d5c6706db59def39a",
     "url": "/ReactAPP/static/css/main.2c6d2eea.chunk.css"
   },
   {
-    "revision": "a88968b2cdd3b2135c8d",
-    "url": "/ReactAPP/static/js/main.a88968b2.chunk.js"
+    "revision": "6d0d5c6706db59def39a",
+    "url": "/ReactAPP/static/js/main.6d0d5c67.chunk.js"
   },
   {
     "revision": "3a79397ac1a1b3a66e79",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ReactAPP/static/media/Home_cinema.31001251.gif"
   },
   {
-    "revision": "77005ebf66435995c295d9976946b6c5",
+    "revision": "48a6129ecb9f141c5d6d250d307aef30",
     "url": "/ReactAPP/index.html"
   }
 ];
