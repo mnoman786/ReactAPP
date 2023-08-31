@@ -22,7 +22,7 @@ const Navbar = () => {
         <h1 className="logo">Madx Gaming</h1>
         <div className="menu">
 
-          <NavLink exact activeClassName="active_class" to="/">Home</NavLink>
+          <NavLink exact activeClassName="active_class" to="/ReactAPP/">Home</NavLink>
           <NavLink exact activeClassName="active_class" to="/netflix">Netflix Movies</NavLink>
           <NavLink exact activeClassName="active_class" to="/amazon">Amazon Movies</NavLink>
           

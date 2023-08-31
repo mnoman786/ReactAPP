@@ -12,7 +12,7 @@ const Main = () => {
       <BrowserRouter>
         <Navbar />
         <Routes>
-            <Route path="/" exact Component={Home} />
+            <Route path="/ReactAPP/" exact Component={Home} />
           <Route path="/amazon" exact Component={Amazon} />
           <Route path="/netflix" exact Component={Netflix} />
         </Routes>
